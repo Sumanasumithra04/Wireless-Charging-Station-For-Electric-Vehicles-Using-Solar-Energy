@@ -1,2 +1,9 @@
-# Wireless-Charging-Station-For-Electric-Vehicles-Using-Solar-Energy
-This project showcases a wireless charging station for electric vehicles powered by solar energy, promoting a cleaner and greener charging process. It incorporates safety features and utilizes IoT technology, enabling users to monitor their car battery status conveniently via their mobile phones.
+##Project Overview
+This project presents the design and development of a wireless charging station for electric vehicles (EVs) powered by solar energy, promoting clean, green mobility.The system integrates wireless power transfer (WPT) with a photovoltaic (PV) source to reduce reliance on grid electricity and lower carbon emissions.
+It includes built-in safety mechanisms like over-voltage protection, temperature-based cutoff, and real-time IoT monitoring, allowing users to view battery data remotely using a mobile/web interface.
+## ✨ Features
+- ☀️ Solar-powered energy source
+- 🔋 Wireless inductive charging coils
+- 📶 IoT-enabled real-time battery monitoring
+- 🛡️ Safety features: over-voltage, temperature cutoff
+- 📱 Mobile access to battery status
