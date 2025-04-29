@@ -12,7 +12,7 @@ It includes built-in safety mechanisms like over-voltage protection, temperature
 - ⚙️ Solar Panel & Wireless Inductive Coils
 -  📱	Mobile app (Blynk runs on smartphones)
 ## 📁 Folder Structure
--📂 Hardware
+- 📂 Hardware
 - 📂 Software
 - 📂 Documents
  
