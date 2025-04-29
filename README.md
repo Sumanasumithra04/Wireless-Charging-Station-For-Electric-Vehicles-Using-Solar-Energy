@@ -13,10 +13,10 @@ It includes built-in safety mechanisms like over-voltage protection, temperature
 -  📱	Mobile app (Blynk runs on smartphones)
 ## 📁 Folder Structure
 -📂 Hardware/
-  ├── 📄 circuit_diagrams.pdf
-  ├── 📄 components_list.xlsx
-  └── 📂 images_of_prototype/
-  └── 🖼️ (Prototype images)
+│   ├── 📄 circuit_diagrams.pdf
+│   ├── 📄 components_list.xlsx
+│   └── 📂 images_of_prototype/
+│       └── 🖼️ (Prototype images)
 - 📂 Software
 ├── 📄 arduino_code.ino
 └── 📄 iot_monitoring_code.ino
