@@ -1,4 +1,4 @@
-##Project Overview
+
 This project presents the design and development of a wireless charging station for electric vehicles (EVs) powered by solar energy, promoting clean, green mobility.The system integrates wireless power transfer (WPT) with a photovoltaic (PV) source to reduce reliance on grid electricity and lower carbon emissions.
 It includes built-in safety mechanisms like over-voltage protection, temperature-based cutoff, and real-time IoT monitoring, allowing users to view battery data remotely using a mobile/web interface.
 ## ✨ Features
