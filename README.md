@@ -7,3 +7,4 @@ It includes built-in safety mechanisms like over-voltage protection, temperature
 - 📶 IoT-enabled real-time battery monitoring
 - 🛡️ Safety features: over-voltage, temperature cutoff
 - 📱 Mobile access to battery status
+![Wireless Charging Prototype](https://drive.google.com/file/d/1_Yd0M_jXr4k3mar-s7S7rDacAMAdNlMy/view?usp=drive_link)
