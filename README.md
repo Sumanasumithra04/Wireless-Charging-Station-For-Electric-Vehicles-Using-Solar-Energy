@@ -21,4 +21,8 @@ It includes built-in safety mechanisms like over-voltage protection, temperature
 
 ![Image](https://github.com/user-attachments/assets/20942096-b6cb-4a99-89ae-f075dde598c9)
 
+![Image](https://github.com/user-attachments/assets/1f94d379-cf6a-47c8-a0cf-fa41362ea5ff)
+
+![Image](https://github.com/user-attachments/assets/17e3de3b-8866-4bc6-ba4c-b550cccf0732)
+
 
