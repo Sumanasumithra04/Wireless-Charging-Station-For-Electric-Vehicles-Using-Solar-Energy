@@ -15,6 +15,12 @@ It includes built-in safety mechanisms like over-voltage protection, temperature
 - 📂 Hardware
 - 📂 Software
 - 📂 Documents
+
+
+![Image](https://github.com/user-attachments/assets/ebdcb121-e309-4483-b5f3-3b68de38099a)
+
+![Image](https://github.com/user-attachments/assets/20942096-b6cb-4a99-89ae-f075dde598c9)
+
  
 ![Image](https://github.com/user-attachments/assets/f47d139b-27e5-49c6-b8e4-cef3defabedc)
 
